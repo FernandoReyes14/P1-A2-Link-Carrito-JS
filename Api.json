@@ -1,0 +1,37 @@
+[{
+        "precio": 647,
+        "id": 1,
+        "title": "HP ",
+        "thumbnailUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 789,
+        "id": 2,
+        "title": "DEL",
+        "thumbnailUrl": "https://picsum.photos/id/1/600"
+    },
+    {
+        "precio": 332,
+        "id": 3,
+        "title": "macbook air",
+        "thumbnailUrl": "https://picsum.photos/id/2/600"
+    },
+    {
+        "precio": 684,
+        "id": 4,
+        "title": "iphone 5",
+        "thumbnailUrl": "https://picsum.photos/id/3/600"
+    },
+    {
+        "precio": 870,
+        "id": 5,
+        "title": "iPad",
+        "thumbnailUrl": "https://picsum.photos/id/3/600"
+    },
+    {
+        "precio": 192,
+        "id": 6,
+        "title": "telefono x3",
+        "thumbnailUrl": "https://picsum.photos/id/3/600"
+    }
+]
