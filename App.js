@@ -42,6 +42,7 @@ items.addEventListener('click', e => {
                 }
             pintarCarrito()
         }
+        localStorage.setItem('carrito', JSON.stringify(carrito))
         e.stopPropagation()
 }
 
@@ -85,6 +86,7 @@ items.addEventListener('click', e => {
             btnVaciar.addEventListener('click', () => {
                 carrito = {}
                 pintarCarrito()
+                localStorage.setItem('carrito', JSON.stringify(carrito))
             })
         }
 
